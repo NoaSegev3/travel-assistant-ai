@@ -48,7 +48,7 @@ Full conversational flows are available in `docs/transcripts.md`.
 ![Itinerary flow](docs/screenshots/01_itinerary_flow.png)
 ![Trip summary state](docs/screenshots/02_trip_summary.png)
 ![Weather tool + safety](docs/screenshots/03_weather_tool.png)
-![Currency interrupt](docs/screenshots/04_currency_interrupt.png)
+![Currency interrupt](docs/screenshots/04_currency_tool.png)
 
 ---
 
